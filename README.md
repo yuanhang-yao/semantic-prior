@@ -156,7 +156,3 @@ If this project is useful for your research, please cite:
   year      = {2026}
 }
 ```
-
-## Acknowledgement
-
-This repository builds on the ISTD community and point-supervised baselines including [LESPS](https://github.com/XinyiYing/LESPS) and [PAL](https://github.com/YuChuang1205/PAL). Please cite the corresponding original works when using their code, datasets, or annotations.
