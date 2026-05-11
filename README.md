@@ -10,7 +10,7 @@ Target Detection via Hierarchical Knowledge Distillation</h3>
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-red)](#)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-[Paper](paper.pdf) · [arXiv](https://arxiv.org/abs/xxxx.xxxxx) · [Project Page](https://github.com/username/Semantic-Prior-KD-ISTD)
+[arXiv](https://arxiv.org/abs/xxxx.xxxxx)
 
 </div>
 
@@ -38,7 +38,7 @@ The proposed framework stabilizes point-supervised learning by using a frozen Vi
 
 ## News
 
-- `[2026-05-05]` Code released.
+- `[2026-05-11]` Code released.
 
 ## Code Usage
 
