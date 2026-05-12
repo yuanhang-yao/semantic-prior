@@ -73,12 +73,7 @@ export HF_HOME=/path/to/huggingface_cache
 
 ### Step 3. Prepare datasets
 
-| Dataset | Download |
-|---|---|
-| SIRST-v1 | [YimianDai/sirst](https://github.com/YimianDai/sirst) |
-| NUDT-SIRST | [YeRen123455/Infrared-Small-Target-Detection](https://github.com/YeRen123455/Infrared-Small-Target-Detection) |
-| IRSTD-1k | [RuiZhang97/ISNet](https://github.com/RuiZhang97/ISNet) |
-| SIRST3 | [YuChuang1205/PAL](https://github.com/YuChuang1205/PAL) |
+[SIRST3](https://github.com/YuChuang1205/PAL)
 
 Expected directory structure:
 
