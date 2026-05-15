@@ -10,7 +10,7 @@ Target Detection via Hierarchical Knowledge Distillation</h3>
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-red)](#)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-[arXiv](https://arxiv.org/abs/xxxx.xxxxx)
+[arXiv](http://arxiv.org/abs/2605.14346)
 
 </div>
 
