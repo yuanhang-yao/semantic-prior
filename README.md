@@ -7,7 +7,6 @@ Target Detection via Hierarchical Knowledge Distillation</h3>
 
 [![Conference](https://img.shields.io/badge/IJCAI--ECAI-2026-blue)](#)
 [![Task](https://img.shields.io/badge/Task-Point--Supervised%20ISTD-orange)](#)
-[![Framework](https://img.shields.io/badge/Framework-PyTorch-red)](#)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 [arXiv](http://arxiv.org/abs/2605.14346)
@@ -35,10 +34,6 @@ The proposed framework stabilizes point-supervised learning by using a frozen Vi
 </p>
 
 > Motivation and the proposed framework.
-
-## News
-
-- `[2026-05-11]` Code released.
 
 ## Code Usage
 
